@@ -1,2 +1,2 @@
-# story-mode
-Using Destiny and Zelda lore.
+# Story Mode
+A story based on Destiny and Zelda lore, for the 09Realm.
